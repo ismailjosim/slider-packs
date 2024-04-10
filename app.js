@@ -5,6 +5,55 @@ const carouselEl = document.querySelector(".carousel")
 const carouselListItemEl = document.querySelector(".carousel .list")
 const thumbnailEl = document.querySelector(".carousel .thumbnail")
 
+
+function fetchData() {
+    fetch('data.json')
+        .then(res => res.json())
+        .then(data => {
+            if (data) {
+                const carouselItems = document.getElementById('carousel-items');
+                const thumbnailContainer = document.getElementById('thumbnail-container');
+                data.forEach(element => {
+                    const { id, name, bread, description, thumbnail, image } = element || {}
+                    const item = document.createElement('div');
+                    item.classList.add('item');
+                    item.innerHTML = `
+                <img src=${ image } alt="">
+                <div className="shadow-box"></div>
+                <div class="content">
+                    <div class="author">Name</div>
+                    <div class="title">${ name }</div>
+                    <div class="topic">${ bread } </div>
+                    <div class="des">${ description }</div>
+                    <div class="buttons">
+                        <button>SEE MORE</button>
+                        <button>SUBSCRIBE</button>
+                    </div>
+                </div>
+                    `
+                    const thumbnailItem = document.createElement('div');
+                    thumbnailItem.classList.add('item');
+                    thumbnailItem.innerHTML = `
+                 <img src=${ thumbnail } alt="">
+                <div class="content">
+                    <div class="title">${ name }</div>
+                    <div class="des">${ bread }</div>
+                </div>
+                    `
+
+                    carouselItems.appendChild(item)
+                    thumbnailContainer.appendChild(thumbnailItem)
+                });
+            }
+        })
+
+}
+fetchData()
+
+
+
+
+
 // next button function
 nextBtnEl.onclick = function () {
     showSlider('next')
@@ -64,3 +113,5 @@ function showSlider(type) {
         nextBtnEl.click();
     }, timeAutoNext);
 }
+
+
