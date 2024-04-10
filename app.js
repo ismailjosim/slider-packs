@@ -19,7 +19,6 @@ function fetchData() {
                     item.classList.add('item');
                     item.innerHTML = `
                 <img src=${ image } alt="">
-                <div className="shadow-box"></div>
                 <div class="content">
                     <div class="author">Name</div>
                     <div class="title">${ name }</div>
