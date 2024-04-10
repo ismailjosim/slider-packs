@@ -176,6 +176,9 @@ button:nth-child(2) {
 .arrows button {
     width: 4rem;
     height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: 50%;
     background: #eee4;
     border: none;
@@ -186,8 +189,8 @@ button:nth-child(2) {
 }
 
 .arrows button:hover {
-    background: #eee;
-    color: #555;
+    background: #f1683a;
+    color: #ffffff;
 }
 
 .carousel .list .item:nth-child(1) {
@@ -354,4 +357,16 @@ button:nth-child(2) {
         width: 0;
     }
 
+}
+
+
+@media screen and (max-width: 425px) {
+    .carousel .list .item .content {
+        padding-right: 0;
+    }
+
+    .carousel .list .item .content .title,
+    .carousel .list .item .content .topic {
+        font-size: 3rem;
+    }
 }
