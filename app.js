@@ -19,6 +19,7 @@ function fetchData() {
                     item.classList.add('item');
                     item.innerHTML = `
                 <img src=${ image } alt="">
+                <div class="shadow"></div>
                 <div class="content">
                     <div class="author">Name</div>
                     <div class="title">${ name }</div>
@@ -64,7 +65,7 @@ prevBtnEl.onclick = function () {
 
 }
 let timeRunning = 2000;
-let timeAutoNext = 10000;
+let timeAutoNext = 15000;
 
 let runTimeOut;
 let runAutoSlide;
