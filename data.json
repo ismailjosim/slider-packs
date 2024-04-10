@@ -4,79 +4,79 @@
 		"name": "Neon Tetra",
 		"bread": "Characidae",
 		"description": "The Neon Tetra is a popular choice among aquarists for its vibrant colors and peaceful nature. It is a small freshwater fish native to South America.",
-		"thumbnail": "https://i.ibb.co/QP0G1Z5/Adobe-Stock-262517029-480x480.webp",
-		"image": "https://i.ibb.co/0CtZc31/Neon-Tetra-Complete-Care-Guide-Banner-678x381.webp"
+		"thumbnail": "https://i.ibb.co/G9NHhzV/Neon-Tetra-thumbnail.jpg",
+		"image": "https://i.ibb.co/nch7Z6H/Neon-Tetra-image.jpg"
 	},
 	{
 		"id": "E9B4162D0FC5A731",
 		"name": "Betta Fish",
 		"bread": "Osphronemidae",
 		"description": "Also known as Siamese Fighting Fish, Bettas are known for their vibrant colors and flowing fins. They require warm water and are known for their territorial behavior.",
-		"thumbnail": "https://i.ibb.co/Yj0BgqG/wallpaperflare-com-wallpaper.jpg",
-		"image": "https://i.ibb.co/kmtT4CK/pexels-chevanon-photography-2707010.jpg"
+		"thumbnail": "https://i.ibb.co/jVC89t0/Betta-Fish-thumbnail.jpg",
+		"image": "https://i.ibb.co/St7dVSk/Betta-Fish.jpg"
 	},
 	{
 		"id": "3D6E0AFC825B917E",
-		"name": "Angelfish",
+		"name": "Angel fish",
 		"bread": "Cichlidae",
-		"description": "Angelfish are graceful freshwater fish with elongated fins and striking color patterns. They are popular choices for community tanks but may display aggression during breeding.",
-		"thumbnail": "https://i.ibb.co/w4tjYbp/Angelfish-thumb.jpg",
-		"image": "https://i.ibb.co/hss4Myx/Angelfish-main.jpg"
+		"description": "Angel fish are graceful freshwater fish with elongated fins and striking color patterns. They are popular choices for community tanks but may display aggression during breeding.",
+		"thumbnail": "https://i.ibb.co/TcjVz0T/Angelfish-thumb.jpg",
+		"image": "https://i.ibb.co/pfkBy2c/Angelfish-main.jpg"
 	},
 	{
 		"id": "A7DC2F51E89460BE",
 		"name": "Guppy",
 		"bread": "Poeciliidae",
 		"description": "Guppies are small, colorful fish that are easy to care for and breed. They are known for their vibrant colors and adaptability to various tank conditions.",
-		"thumbnail": "https://i.ibb.co/9VchcGj/aquarium-4446625-1920.jpg",
-		"image": "https://i.ibb.co/tPK7cSb/aquarium-4440191-1920.jpg"
+		"image": "https://i.ibb.co/XbFMccP/Guppy-main.jpg",
+		"thumbnail": "https://i.ibb.co/3kMYBGV/Guppy-thumbnail.jpg"
 	},
 	{
 		"id": "91F4E7BC68D203A5",
 		"name": "Discus Fish",
 		"bread": "Cichlidae",
 		"description": "Discus fish are known for their vibrant colors and distinctive disc-shaped bodies. They require pristine water conditions and are popular choices for advanced aquarists.",
-		"thumbnail": "https://i.ibb.co/bvPvhf1/perch-62855-1920.jpg",
-		"image": "https://i.ibb.co/56rfwjH/fishes-1726604-1920.jpg"
+		"image": "https://i.ibb.co/s2wycBD/Discus-Fish-main.jpg",
+		"thumbnail": "https://i.ibb.co/7tSxs1L/Discus-Fish-th.jpg"
 	},
 	{
 		"id": "B6C8159D3A0F4E72",
 		"name": "Zebra Danio",
 		"bread": "Cyprinidae",
 		"description": "Zebra Danios are small, active fish with distinctive zebra-like stripes. They are hardy and can tolerate a wide range of water conditions, making them suitable for beginner aquarists.",
-		"thumbnail": "https://i.ibb.co/56rfwjH/fishes-1726604-1920.jpg",
-		"image": "https://i.ibb.co/f8srT58/fish-3214876-1920.jpg"
+		"thumbnail": "https://i.ibb.co/tX5xDKn/Zebra-Danio-thumbnail.jpg",
+		"image": "https://i.ibb.co/RyCJQ16/Zebra-Danio-main.jpg"
 	},
 	{
 		"id": "8FD2A61BE7309C4C",
 		"name": "Molly",
 		"bread": "Poeciliidae",
 		"description": "Mollies are peaceful, live-bearing fish available in various colors and patterns. They are easy to care for and are suitable for community tanks.",
-		"thumbnail": "https://i.ibb.co/k8sCqL8/the-mollie-1380726-hero-b5727abe24d9464c80e690ec88034853.webp",
-		"image": "https://i.ibb.co/3kMzqkY/the-mollie-1380726-03-e139588525c84a7b99846539fb5d0ae7.webp"
+		"thumbnail": "https://i.ibb.co/Y8RbFZz/Molly-th.jpg",
+		"image": "https://i.ibb.co/DR68Rhn/Molly-main.jpg"
 	},
 	{
 		"id": "2E74C5A381BFD960",
-		"name": "Corydoras Catfish",
+		"name": "Catfish",
 		"bread": "Callichthyidae",
 		"description": "Corydoras Catfish are bottom-dwelling fish known for their playful behavior and armored appearance. They are excellent scavengers and help keep the aquarium clean.",
-		"thumbnail": "https://i.ibb.co/h9H6hQk/dwarf-corydoras-143885-1280.jpg",
-		"image": "https://i.ibb.co/hss4Myx/Angelfish-main.jpg"
+		"thumbnail": "https://i.ibb.co/X2CjzF4/Catfish-thumbnail.jpg",
+		"image": "https://i.ibb.co/c2gSgm8/Corydoras-Catfish-th.jpg"
 	},
 	{
 		"id": "4F90E6D25A731B8C",
 		"name": "Koi Fish",
 		"bread": "Cyprinidae",
 		"description": "Koi Fish are large, ornamental carp known for their stunning colors and patterns. They are often kept in outdoor ponds but can also thrive in large aquariums.",
-		"thumbnail": "https://i.ibb.co/6tRhSdT/brocade-carp-1298622-1920.jpg",
-		"image": "https://i.ibb.co/KXcKkBC/koi-fish-7071556-1920.jpg"
+		"image": "https://i.ibb.co/M1QvpJk/Koi-Fish-main.jpg",
+		"thumbnail": "https://i.ibb.co/P5Fhspk/Koi-Fish-thumb.jpg"
 	},
 	{
 		"id": "D85B107E6C3A9F24",
 		"name": "Clown fish",
 		"bread": "Pomacentridae",
 		"description": "Clown fish, also known as Anemonefish, are small, colorful fish found in coral reefs. They have a symbiotic relationship with sea anemones and are popularized by the movie 'Finding Nemo.'",
-		"thumbnail": "https://i.ibb.co/M1tWNFL/pexels-crisdip-128756-1.jpg",
-		"image": "https://i.ibb.co/9Tb6MkP/pexels-bagus-tri-kuncoro-j-2744596.jpg"
+		"image": "https://i.ibb.co/SRWyGZ1/Clown-fish-main.jpg",
+		"thumbnail": "https://i.ibb.co/zrLd1Xh/Clown-fish-thumb.jpg"
 	}
 ]
